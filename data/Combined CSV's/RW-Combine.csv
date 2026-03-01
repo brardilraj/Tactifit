@@ -1,0 +1,749 @@
+Player Name,Club,Position,Metric,Value
+Ángel Di María,Rosario Central,CAM_Winger,Goals,8
+Ángel Di María,Rosario Central,CAM_Winger,Assists,5
+Ángel Di María,Rosario Central,CAM_Winger,NPG,3
+Ángel Di María,Rosario Central,CAM_Winger,XG,8.9
+Ángel Di María,Rosario Central,CAM_Winger,XA,5.2
+Ángel Di María,Rosario Central,CAM_Winger,Progressive passes,160
+Ángel Di María,Rosario Central,CAM_Winger,Progressive carries,70
+Ángel Di María,Rosario Central,CAM_Winger,Passes completed,684
+Ángel Di María,Rosario Central,CAM_Winger,Passes attempted,970
+Ángel Di María,Rosario Central,CAM_Winger,Key passes,45
+Ángel Di María,Rosario Central,CAM_Winger,Through balls,19
+Ángel Di María,Rosario Central,CAM_Winger,Switches,21
+Ángel Di María,Rosario Central,CAM_Winger,Crosses,133
+Ángel Di María,Rosario Central,CAM_Winger,Corners,60
+Ángel Di María,Rosario Central,CAM_Winger,Shot creating Actions,90
+Ángel Di María,Rosario Central,CAM_Winger,SCA Take Ons,8
+Ángel Di María,Rosario Central,CAM_Winger,GCA Shots,1
+Ángel Di María,Rosario Central,CAM_Winger,Goal Creating Actions,12
+Ángel Di María,Rosario Central,CAM_Winger,Tackles,16
+Ángel Di María,Rosario Central,CAM_Winger,Dribblers tackles,NA
+Ángel Di María,Rosario Central,CAM_Winger,Shots blocked,0
+Ángel Di María,Rosario Central,CAM_Winger,Blocks,13
+Ángel Di María,Rosario Central,CAM_Winger,Interceptions,8
+Ángel Di María,Rosario Central,CAM_Winger,Passes Recieved,905
+Ángel Di María,Rosario Central,CAM_Winger,Offsides,10
+Ángel Di María,Rosario Central,CAM_Winger,Ball recoveries,76
+Ángel Di María,Rosario Central,CAM_Winger,Errors,0
+Ángel Di María,Rosario Central,CAM_Winger,Touches,1203
+Ángel Di María,Rosario Central,CAM_Winger,Miscontrols,38
+Ángel Di María,Rosario Central,CAM_Winger,Dispossessed,18
+Ángel Di María,Rosario Central,CAM_Winger,Yellow Cards,5
+Ángel Di María,Rosario Central,CAM_Winger,Red Cards,0
+Ángel Di María,Rosario Central,CAM_Winger,Fouls committed,17
+Ángel Di María,Rosario Central,CAM_Winger,Aerials Won,0
+Adama Traoré,Fulham,CAM_Winger,Goals,2
+Adama Traoré,Fulham,CAM_Winger,Assists,7
+Adama Traoré,Fulham,CAM_Winger,NPG,2
+Adama Traoré,Fulham,CAM_Winger,XG,4.0
+Adama Traoré,Fulham,CAM_Winger,XA,4.9
+Adama Traoré,Fulham,CAM_Winger,Progressive passes,68
+Adama Traoré,Fulham,CAM_Winger,Progressive carries,100
+Adama Traoré,Fulham,CAM_Winger,Passes completed,424
+Adama Traoré,Fulham,CAM_Winger,Passes attempted,587
+Adama Traoré,Fulham,CAM_Winger,Key passes,42
+Adama Traoré,Fulham,CAM_Winger,Through balls,6
+Adama Traoré,Fulham,CAM_Winger,Switches,2
+Adama Traoré,Fulham,CAM_Winger,Crosses,100
+Adama Traoré,Fulham,CAM_Winger,Corners,0
+Adama Traoré,Fulham,CAM_Winger,Shot creating Actions,82
+Adama Traoré,Fulham,CAM_Winger,SCA Take Ons,9
+Adama Traoré,Fulham,CAM_Winger,GCA Shots,0
+Adama Traoré,Fulham,CAM_Winger,Goal Creating Actions,10
+Adama Traoré,Fulham,CAM_Winger,Tackles,20
+Adama Traoré,Fulham,CAM_Winger,Dribblers tackles,NA
+Adama Traoré,Fulham,CAM_Winger,Shots blocked,0
+Adama Traoré,Fulham,CAM_Winger,Blocks,7
+Adama Traoré,Fulham,CAM_Winger,Interceptions,1
+Adama Traoré,Fulham,CAM_Winger,Passes Recieved,607
+Adama Traoré,Fulham,CAM_Winger,Offsides,1
+Adama Traoré,Fulham,CAM_Winger,Ball recoveries,87
+Adama Traoré,Fulham,CAM_Winger,Errors,4
+Adama Traoré,Fulham,CAM_Winger,Touches,801
+Adama Traoré,Fulham,CAM_Winger,Miscontrols,37
+Adama Traoré,Fulham,CAM_Winger,Dispossessed,25
+Adama Traoré,Fulham,CAM_Winger,Yellow Cards,3
+Adama Traoré,Fulham,CAM_Winger,Red Cards,0
+Adama Traoré,Fulham,CAM_Winger,Fouls committed,24
+Adama Traoré,Fulham,CAM_Winger,Aerials Won,25
+Amad Diallo,Manchester United,CAM_Winger,Goals,8
+Amad Diallo,Manchester United,CAM_Winger,Assists,6
+Amad Diallo,Manchester United,CAM_Winger,NPG,8
+Amad Diallo,Manchester United,CAM_Winger,XG,4.7
+Amad Diallo,Manchester United,CAM_Winger,XA,4.9
+Amad Diallo,Manchester United,CAM_Winger,Progressive passes,60
+Amad Diallo,Manchester United,CAM_Winger,Progressive carries,109
+Amad Diallo,Manchester United,CAM_Winger,Passes completed,795
+Amad Diallo,Manchester United,CAM_Winger,Passes attempted,949
+Amad Diallo,Manchester United,CAM_Winger,Key passes,49
+Amad Diallo,Manchester United,CAM_Winger,Through balls,3
+Amad Diallo,Manchester United,CAM_Winger,Switches,1
+Amad Diallo,Manchester United,CAM_Winger,Crosses,42
+Amad Diallo,Manchester United,CAM_Winger,Corners,32
+Amad Diallo,Manchester United,CAM_Winger,Shot creating Actions,97
+Amad Diallo,Manchester United,CAM_Winger,SCA Take Ons,10
+Amad Diallo,Manchester United,CAM_Winger,GCA Shots,1
+Amad Diallo,Manchester United,CAM_Winger,Goal Creating Actions,18
+Amad Diallo,Manchester United,CAM_Winger,Tackles,38
+Amad Diallo,Manchester United,CAM_Winger,Dribblers tackles,NA
+Amad Diallo,Manchester United,CAM_Winger,Shots blocked,2
+Amad Diallo,Manchester United,CAM_Winger,Blocks,15
+Amad Diallo,Manchester United,CAM_Winger,Interceptions,11
+Amad Diallo,Manchester United,CAM_Winger,Passes Recieved,854
+Amad Diallo,Manchester United,CAM_Winger,Offsides,9
+Amad Diallo,Manchester United,CAM_Winger,Ball recoveries,109
+Amad Diallo,Manchester United,CAM_Winger,Errors,1
+Amad Diallo,Manchester United,CAM_Winger,Touches,1207
+Amad Diallo,Manchester United,CAM_Winger,Miscontrols,42
+Amad Diallo,Manchester United,CAM_Winger,Dispossessed,35
+Amad Diallo,Manchester United,CAM_Winger,Yellow Cards,5
+Amad Diallo,Manchester United,CAM_Winger,Red Cards,0
+Amad Diallo,Manchester United,CAM_Winger,Fouls committed,21
+Amad Diallo,Manchester United,CAM_Winger,Aerials Won,10
+Antony,Real Betis,CAM_Winger,Goals,0
+Antony,Real Betis,CAM_Winger,Assists,0
+Antony,Real Betis,CAM_Winger,NPG,0
+Antony,Real Betis,CAM_Winger,XG,1.0
+Antony,Real Betis,CAM_Winger,XA,0.1
+Antony,Real Betis,CAM_Winger,Progressive passes,6
+Antony,Real Betis,CAM_Winger,Progressive carries,5
+Antony,Real Betis,CAM_Winger,Passes completed,56
+Antony,Real Betis,CAM_Winger,Passes attempted,69
+Antony,Real Betis,CAM_Winger,Key passes,3
+Antony,Real Betis,CAM_Winger,Through balls,0
+Antony,Real Betis,CAM_Winger,Switches,0
+Antony,Real Betis,CAM_Winger,Crosses,5
+Antony,Real Betis,CAM_Winger,Corners,0
+Antony,Real Betis,CAM_Winger,Shot creating Actions,8
+Antony,Real Betis,CAM_Winger,SCA Take Ons,1
+Antony,Real Betis,CAM_Winger,GCA Shots,0
+Antony,Real Betis,CAM_Winger,Goal Creating Actions,0
+Antony,Real Betis,CAM_Winger,Tackles,6
+Antony,Real Betis,CAM_Winger,Dribblers tackles,NA
+Antony,Real Betis,CAM_Winger,Shots blocked,0
+Antony,Real Betis,CAM_Winger,Blocks,2
+Antony,Real Betis,CAM_Winger,Interceptions,2
+Antony,Real Betis,CAM_Winger,Passes Recieved,69
+Antony,Real Betis,CAM_Winger,Offsides,0
+Antony,Real Betis,CAM_Winger,Ball recoveries,11
+Antony,Real Betis,CAM_Winger,Errors,0
+Antony,Real Betis,CAM_Winger,Touches,101
+Antony,Real Betis,CAM_Winger,Miscontrols,5
+Antony,Real Betis,CAM_Winger,Dispossessed,1
+Antony,Real Betis,CAM_Winger,Yellow Cards,0
+Antony,Real Betis,CAM_Winger,Red Cards,0
+Antony,Real Betis,CAM_Winger,Fouls committed,2
+Antony,Real Betis,CAM_Winger,Aerials Won,0
+Bryan Mbeumo,Manchester United,CAM_Winger,Goals,20
+Bryan Mbeumo,Manchester United,CAM_Winger,Assists,7
+Bryan Mbeumo,Manchester United,CAM_Winger,NPG,15
+Bryan Mbeumo,Manchester United,CAM_Winger,XG,12.3
+Bryan Mbeumo,Manchester United,CAM_Winger,XA,8.3
+Bryan Mbeumo,Manchester United,CAM_Winger,Progressive passes,141
+Bryan Mbeumo,Manchester United,CAM_Winger,Progressive carries,130
+Bryan Mbeumo,Manchester United,CAM_Winger,Passes completed,872
+Bryan Mbeumo,Manchester United,CAM_Winger,Passes attempted,1319
+Bryan Mbeumo,Manchester United,CAM_Winger,Key passes,70
+Bryan Mbeumo,Manchester United,CAM_Winger,Through balls,13
+Bryan Mbeumo,Manchester United,CAM_Winger,Switches,9
+Bryan Mbeumo,Manchester United,CAM_Winger,Crosses,202
+Bryan Mbeumo,Manchester United,CAM_Winger,Corners,87
+Bryan Mbeumo,Manchester United,CAM_Winger,Shot creating Actions,144
+Bryan Mbeumo,Manchester United,CAM_Winger,SCA Take Ons,11
+Bryan Mbeumo,Manchester United,CAM_Winger,GCA Shots,3
+Bryan Mbeumo,Manchester United,CAM_Winger,Goal Creating Actions,20
+Bryan Mbeumo,Manchester United,CAM_Winger,Tackles,49
+Bryan Mbeumo,Manchester United,CAM_Winger,Dribblers tackles,NA
+Bryan Mbeumo,Manchester United,CAM_Winger,Shots blocked,3
+Bryan Mbeumo,Manchester United,CAM_Winger,Blocks,26
+Bryan Mbeumo,Manchester United,CAM_Winger,Interceptions,14
+Bryan Mbeumo,Manchester United,CAM_Winger,Passes Recieved,1204
+Bryan Mbeumo,Manchester United,CAM_Winger,Offsides,11
+Bryan Mbeumo,Manchester United,CAM_Winger,Ball recoveries,156
+Bryan Mbeumo,Manchester United,CAM_Winger,Errors,1
+Bryan Mbeumo,Manchester United,CAM_Winger,Touches,1781
+Bryan Mbeumo,Manchester United,CAM_Winger,Miscontrols,106
+Bryan Mbeumo,Manchester United,CAM_Winger,Dispossessed,47
+Bryan Mbeumo,Manchester United,CAM_Winger,Yellow Cards,3
+Bryan Mbeumo,Manchester United,CAM_Winger,Red Cards,0
+Bryan Mbeumo,Manchester United,CAM_Winger,Fouls committed,25
+Bryan Mbeumo,Manchester United,CAM_Winger,Aerials Won,34
+Bukayo Saka,Arsenal,CAM_Winger,Goals,6
+Bukayo Saka,Arsenal,CAM_Winger,Assists,10
+Bukayo Saka,Arsenal,CAM_Winger,NPG,5
+Bukayo Saka,Arsenal,CAM_Winger,XG,6.8
+Bukayo Saka,Arsenal,CAM_Winger,XA,7.6
+Bukayo Saka,Arsenal,CAM_Winger,Progressive passes,70
+Bukayo Saka,Arsenal,CAM_Winger,Progressive carries,96
+Bukayo Saka,Arsenal,CAM_Winger,Passes completed,552
+Bukayo Saka,Arsenal,CAM_Winger,Passes attempted,731
+Bukayo Saka,Arsenal,CAM_Winger,Key passes,58
+Bukayo Saka,Arsenal,CAM_Winger,Through balls,4
+Bukayo Saka,Arsenal,CAM_Winger,Switches,2
+Bukayo Saka,Arsenal,CAM_Winger,Crosses,117
+Bukayo Saka,Arsenal,CAM_Winger,Corners,64
+Bukayo Saka,Arsenal,CAM_Winger,Shot creating Actions,117
+Bukayo Saka,Arsenal,CAM_Winger,SCA Take Ons,12
+Bukayo Saka,Arsenal,CAM_Winger,GCA Shots,1
+Bukayo Saka,Arsenal,CAM_Winger,Goal Creating Actions,23
+Bukayo Saka,Arsenal,CAM_Winger,Tackles,29
+Bukayo Saka,Arsenal,CAM_Winger,Dribblers tackles,NA
+Bukayo Saka,Arsenal,CAM_Winger,Shots blocked,0
+Bukayo Saka,Arsenal,CAM_Winger,Blocks,22
+Bukayo Saka,Arsenal,CAM_Winger,Interceptions,3
+Bukayo Saka,Arsenal,CAM_Winger,Passes Recieved,711
+Bukayo Saka,Arsenal,CAM_Winger,Offsides,7
+Bukayo Saka,Arsenal,CAM_Winger,Ball recoveries,70
+Bukayo Saka,Arsenal,CAM_Winger,Errors,0
+Bukayo Saka,Arsenal,CAM_Winger,Touches,979
+Bukayo Saka,Arsenal,CAM_Winger,Miscontrols,34
+Bukayo Saka,Arsenal,CAM_Winger,Dispossessed,40
+Bukayo Saka,Arsenal,CAM_Winger,Yellow Cards,3
+Bukayo Saka,Arsenal,CAM_Winger,Red Cards,0
+Bukayo Saka,Arsenal,CAM_Winger,Fouls committed,15
+Bukayo Saka,Arsenal,CAM_Winger,Aerials Won,10
+Callum Hudson-Odoi,Nottingham Forest,CAM_Winger,Goals,5
+Callum Hudson-Odoi,Nottingham Forest,CAM_Winger,Assists,2
+Callum Hudson-Odoi,Nottingham Forest,CAM_Winger,NPG,5
+Callum Hudson-Odoi,Nottingham Forest,CAM_Winger,XG,2.5
+Callum Hudson-Odoi,Nottingham Forest,CAM_Winger,XA,2.7
+Callum Hudson-Odoi,Nottingham Forest,CAM_Winger,Progressive passes,71
+Callum Hudson-Odoi,Nottingham Forest,CAM_Winger,Progressive carries,130
+Callum Hudson-Odoi,Nottingham Forest,CAM_Winger,Passes completed,691
+Callum Hudson-Odoi,Nottingham Forest,CAM_Winger,Passes attempted,843
+Callum Hudson-Odoi,Nottingham Forest,CAM_Winger,Key passes,44
+Callum Hudson-Odoi,Nottingham Forest,CAM_Winger,Through balls,5
+Callum Hudson-Odoi,Nottingham Forest,CAM_Winger,Switches,6
+Callum Hudson-Odoi,Nottingham Forest,CAM_Winger,Crosses,79
+Callum Hudson-Odoi,Nottingham Forest,CAM_Winger,Corners,5
+Callum Hudson-Odoi,Nottingham Forest,CAM_Winger,Shot creating Actions,94
+Callum Hudson-Odoi,Nottingham Forest,CAM_Winger,SCA Take Ons,10
+Callum Hudson-Odoi,Nottingham Forest,CAM_Winger,GCA Shots,0
+Callum Hudson-Odoi,Nottingham Forest,CAM_Winger,Goal Creating Actions,11
+Callum Hudson-Odoi,Nottingham Forest,CAM_Winger,Tackles,22
+Callum Hudson-Odoi,Nottingham Forest,CAM_Winger,Dribblers tackles,NA
+Callum Hudson-Odoi,Nottingham Forest,CAM_Winger,Shots blocked,0
+Callum Hudson-Odoi,Nottingham Forest,CAM_Winger,Blocks,11
+Callum Hudson-Odoi,Nottingham Forest,CAM_Winger,Interceptions,13
+Callum Hudson-Odoi,Nottingham Forest,CAM_Winger,Passes Recieved,784
+Callum Hudson-Odoi,Nottingham Forest,CAM_Winger,Offsides,8
+Callum Hudson-Odoi,Nottingham Forest,CAM_Winger,Ball recoveries,92
+Callum Hudson-Odoi,Nottingham Forest,CAM_Winger,Errors,1
+Callum Hudson-Odoi,Nottingham Forest,CAM_Winger,Touches,1035
+Callum Hudson-Odoi,Nottingham Forest,CAM_Winger,Miscontrols,45
+Callum Hudson-Odoi,Nottingham Forest,CAM_Winger,Dispossessed,23
+Callum Hudson-Odoi,Nottingham Forest,CAM_Winger,Yellow Cards,2
+Callum Hudson-Odoi,Nottingham Forest,CAM_Winger,Red Cards,0
+Callum Hudson-Odoi,Nottingham Forest,CAM_Winger,Fouls committed,12
+Callum Hudson-Odoi,Nottingham Forest,CAM_Winger,Aerials Won,3
+Daniel James,Leeds United,CAM_Winger,Goals,12
+Daniel James,Leeds United,CAM_Winger,Assists,9
+Daniel James,Leeds United,CAM_Winger,NPG,12
+Daniel James,Leeds United,CAM_Winger,XG,10.4
+Daniel James,Leeds United,CAM_Winger,XA,8.7
+Daniel James,Leeds United,CAM_Winger,Progressive passes,100
+Daniel James,Leeds United,CAM_Winger,Progressive carries,117
+Daniel James,Leeds United,CAM_Winger,Passes completed,475
+Daniel James,Leeds United,CAM_Winger,Passes attempted,818
+Daniel James,Leeds United,CAM_Winger,Key passes,44
+Daniel James,Leeds United,CAM_Winger,Through balls,5
+Daniel James,Leeds United,CAM_Winger,Switches,1
+Daniel James,Leeds United,CAM_Winger,Crosses,169
+Daniel James,Leeds United,CAM_Winger,Corners,10
+Daniel James,Leeds United,CAM_Winger,Shot creating Actions,95
+Daniel James,Leeds United,CAM_Winger,SCA Take Ons,5
+Daniel James,Leeds United,CAM_Winger,GCA Shots,0
+Daniel James,Leeds United,CAM_Winger,Goal Creating Actions,15
+Daniel James,Leeds United,CAM_Winger,Tackles,28
+Daniel James,Leeds United,CAM_Winger,Dribblers tackles,NA
+Daniel James,Leeds United,CAM_Winger,Shots blocked,0
+Daniel James,Leeds United,CAM_Winger,Blocks,16
+Daniel James,Leeds United,CAM_Winger,Interceptions,4
+Daniel James,Leeds United,CAM_Winger,Passes Recieved,821
+Daniel James,Leeds United,CAM_Winger,Offsides,10
+Daniel James,Leeds United,CAM_Winger,Ball recoveries,76
+Daniel James,Leeds United,CAM_Winger,Errors,0
+Daniel James,Leeds United,CAM_Winger,Touches,1110
+Daniel James,Leeds United,CAM_Winger,Miscontrols,37
+Daniel James,Leeds United,CAM_Winger,Dispossessed,37
+Daniel James,Leeds United,CAM_Winger,Yellow Cards,4
+Daniel James,Leeds United,CAM_Winger,Red Cards,0
+Daniel James,Leeds United,CAM_Winger,Fouls committed,22
+Daniel James,Leeds United,CAM_Winger,Aerials Won,23
+Hakim Ziyech,Unknown,CAM_Winger,Goals,0
+Hakim Ziyech,Unknown,CAM_Winger,Assists,1
+Hakim Ziyech,Unknown,CAM_Winger,NPG,0
+Hakim Ziyech,Unknown,CAM_Winger,XG,NA
+Hakim Ziyech,Unknown,CAM_Winger,XA,NA
+Hakim Ziyech,Unknown,CAM_Winger,Progressive passes,NA
+Hakim Ziyech,Unknown,CAM_Winger,Progressive carries,NA
+Hakim Ziyech,Unknown,CAM_Winger,Passes completed,NA
+Hakim Ziyech,Unknown,CAM_Winger,Passes attempted,NA
+Hakim Ziyech,Unknown,CAM_Winger,Key passes,NA
+Hakim Ziyech,Unknown,CAM_Winger,Through balls,NA
+Hakim Ziyech,Unknown,CAM_Winger,Switches,NA
+Hakim Ziyech,Unknown,CAM_Winger,Crosses,20
+Hakim Ziyech,Unknown,CAM_Winger,Corners,NA
+Hakim Ziyech,Unknown,CAM_Winger,Shot creating Actions,NA
+Hakim Ziyech,Unknown,CAM_Winger,SCA Take Ons,NA
+Hakim Ziyech,Unknown,CAM_Winger,GCA Shots,NA
+Hakim Ziyech,Unknown,CAM_Winger,Goal Creating Actions,NA
+Hakim Ziyech,Unknown,CAM_Winger,Tackles,3
+Hakim Ziyech,Unknown,CAM_Winger,Dribblers tackles,NA
+Hakim Ziyech,Unknown,CAM_Winger,Shots blocked,NA
+Hakim Ziyech,Unknown,CAM_Winger,Blocks,NA
+Hakim Ziyech,Unknown,CAM_Winger,Interceptions,0
+Hakim Ziyech,Unknown,CAM_Winger,Passes Recieved,NA
+Hakim Ziyech,Unknown,CAM_Winger,Offsides,1
+Hakim Ziyech,Unknown,CAM_Winger,Ball recoveries,NA
+Hakim Ziyech,Unknown,CAM_Winger,Errors,NA
+Hakim Ziyech,Unknown,CAM_Winger,Touches,NA
+Hakim Ziyech,Unknown,CAM_Winger,Miscontrols,NA
+Hakim Ziyech,Unknown,CAM_Winger,Dispossessed,NA
+Hakim Ziyech,Unknown,CAM_Winger,Yellow Cards,1
+Hakim Ziyech,Unknown,CAM_Winger,Red Cards,0
+Hakim Ziyech,Unknown,CAM_Winger,Fouls committed,2
+Hakim Ziyech,Unknown,CAM_Winger,Aerials Won,NA
+Ismaila Sarr,Crystal Palace,CAM_Winger,Goals,8
+Ismaila Sarr,Crystal Palace,CAM_Winger,Assists,6
+Ismaila Sarr,Crystal Palace,CAM_Winger,NPG,8
+Ismaila Sarr,Crystal Palace,CAM_Winger,XG,10.7
+Ismaila Sarr,Crystal Palace,CAM_Winger,XA,8.5
+Ismaila Sarr,Crystal Palace,CAM_Winger,Progressive passes,85
+Ismaila Sarr,Crystal Palace,CAM_Winger,Progressive carries,75
+Ismaila Sarr,Crystal Palace,CAM_Winger,Passes completed,490
+Ismaila Sarr,Crystal Palace,CAM_Winger,Passes attempted,742
+Ismaila Sarr,Crystal Palace,CAM_Winger,Key passes,44
+Ismaila Sarr,Crystal Palace,CAM_Winger,Through balls,13
+Ismaila Sarr,Crystal Palace,CAM_Winger,Switches,1
+Ismaila Sarr,Crystal Palace,CAM_Winger,Crosses,55
+Ismaila Sarr,Crystal Palace,CAM_Winger,Corners,0
+Ismaila Sarr,Crystal Palace,CAM_Winger,Shot creating Actions,110
+Ismaila Sarr,Crystal Palace,CAM_Winger,SCA Take Ons,6
+Ismaila Sarr,Crystal Palace,CAM_Winger,GCA Shots,0
+Ismaila Sarr,Crystal Palace,CAM_Winger,Goal Creating Actions,12
+Ismaila Sarr,Crystal Palace,CAM_Winger,Tackles,22
+Ismaila Sarr,Crystal Palace,CAM_Winger,Dribblers tackles,NA
+Ismaila Sarr,Crystal Palace,CAM_Winger,Shots blocked,8
+Ismaila Sarr,Crystal Palace,CAM_Winger,Blocks,27
+Ismaila Sarr,Crystal Palace,CAM_Winger,Interceptions,9
+Ismaila Sarr,Crystal Palace,CAM_Winger,Passes Recieved,739
+Ismaila Sarr,Crystal Palace,CAM_Winger,Offsides,11
+Ismaila Sarr,Crystal Palace,CAM_Winger,Ball recoveries,113
+Ismaila Sarr,Crystal Palace,CAM_Winger,Errors,0
+Ismaila Sarr,Crystal Palace,CAM_Winger,Touches,1091
+Ismaila Sarr,Crystal Palace,CAM_Winger,Miscontrols,70
+Ismaila Sarr,Crystal Palace,CAM_Winger,Dispossessed,43
+Ismaila Sarr,Crystal Palace,CAM_Winger,Yellow Cards,4
+Ismaila Sarr,Crystal Palace,CAM_Winger,Red Cards,0
+Ismaila Sarr,Crystal Palace,CAM_Winger,Fouls committed,14
+Ismaila Sarr,Crystal Palace,CAM_Winger,Aerials Won,37
+Leon Bailey,Roma,CAM_Winger,Goals,1
+Leon Bailey,Roma,CAM_Winger,Assists,2
+Leon Bailey,Roma,CAM_Winger,NPG,1
+Leon Bailey,Roma,CAM_Winger,XG,1.7
+Leon Bailey,Roma,CAM_Winger,XA,1.5
+Leon Bailey,Roma,CAM_Winger,Progressive passes,35
+Leon Bailey,Roma,CAM_Winger,Progressive carries,58
+Leon Bailey,Roma,CAM_Winger,Passes completed,277
+Leon Bailey,Roma,CAM_Winger,Passes attempted,390
+Leon Bailey,Roma,CAM_Winger,Key passes,16
+Leon Bailey,Roma,CAM_Winger,Through balls,5
+Leon Bailey,Roma,CAM_Winger,Switches,1
+Leon Bailey,Roma,CAM_Winger,Crosses,34
+Leon Bailey,Roma,CAM_Winger,Corners,17
+Leon Bailey,Roma,CAM_Winger,Shot creating Actions,38
+Leon Bailey,Roma,CAM_Winger,SCA Take Ons,8
+Leon Bailey,Roma,CAM_Winger,GCA Shots,0
+Leon Bailey,Roma,CAM_Winger,Goal Creating Actions,4
+Leon Bailey,Roma,CAM_Winger,Tackles,7
+Leon Bailey,Roma,CAM_Winger,Dribblers tackles,NA
+Leon Bailey,Roma,CAM_Winger,Shots blocked,0
+Leon Bailey,Roma,CAM_Winger,Blocks,6
+Leon Bailey,Roma,CAM_Winger,Interceptions,3
+Leon Bailey,Roma,CAM_Winger,Passes Recieved,390
+Leon Bailey,Roma,CAM_Winger,Offsides,3
+Leon Bailey,Roma,CAM_Winger,Ball recoveries,59
+Leon Bailey,Roma,CAM_Winger,Errors,0
+Leon Bailey,Roma,CAM_Winger,Touches,545
+Leon Bailey,Roma,CAM_Winger,Miscontrols,35
+Leon Bailey,Roma,CAM_Winger,Dispossessed,25
+Leon Bailey,Roma,CAM_Winger,Yellow Cards,3
+Leon Bailey,Roma,CAM_Winger,Red Cards,0
+Leon Bailey,Roma,CAM_Winger,Fouls committed,12
+Leon Bailey,Roma,CAM_Winger,Aerials Won,6
+Matheus Cunha,Manchester United,CAM_Winger,Goals,15
+Matheus Cunha,Manchester United,CAM_Winger,Assists,6
+Matheus Cunha,Manchester United,CAM_Winger,NPG,15
+Matheus Cunha,Manchester United,CAM_Winger,XG,8.6
+Matheus Cunha,Manchester United,CAM_Winger,XA,7.7
+Matheus Cunha,Manchester United,CAM_Winger,Progressive passes,144
+Matheus Cunha,Manchester United,CAM_Winger,Progressive carries,112
+Matheus Cunha,Manchester United,CAM_Winger,Passes completed,811
+Matheus Cunha,Manchester United,CAM_Winger,Passes attempted,1133
+Matheus Cunha,Manchester United,CAM_Winger,Key passes,56
+Matheus Cunha,Manchester United,CAM_Winger,Through balls,14
+Matheus Cunha,Manchester United,CAM_Winger,Switches,15
+Matheus Cunha,Manchester United,CAM_Winger,Crosses,142
+Matheus Cunha,Manchester United,CAM_Winger,Corners,73
+Matheus Cunha,Manchester United,CAM_Winger,Shot creating Actions,132
+Matheus Cunha,Manchester United,CAM_Winger,SCA Take Ons,19
+Matheus Cunha,Manchester United,CAM_Winger,GCA Shots,0
+Matheus Cunha,Manchester United,CAM_Winger,Goal Creating Actions,16
+Matheus Cunha,Manchester United,CAM_Winger,Tackles,38
+Matheus Cunha,Manchester United,CAM_Winger,Dribblers tackles,NA
+Matheus Cunha,Manchester United,CAM_Winger,Shots blocked,1
+Matheus Cunha,Manchester United,CAM_Winger,Blocks,21
+Matheus Cunha,Manchester United,CAM_Winger,Interceptions,17
+Matheus Cunha,Manchester United,CAM_Winger,Passes Recieved,1056
+Matheus Cunha,Manchester United,CAM_Winger,Offsides,8
+Matheus Cunha,Manchester United,CAM_Winger,Ball recoveries,125
+Matheus Cunha,Manchester United,CAM_Winger,Errors,0
+Matheus Cunha,Manchester United,CAM_Winger,Touches,1561
+Matheus Cunha,Manchester United,CAM_Winger,Miscontrols,80
+Matheus Cunha,Manchester United,CAM_Winger,Dispossessed,55
+Matheus Cunha,Manchester United,CAM_Winger,Yellow Cards,4
+Matheus Cunha,Manchester United,CAM_Winger,Red Cards,0
+Matheus Cunha,Manchester United,CAM_Winger,Fouls committed,42
+Matheus Cunha,Manchester United,CAM_Winger,Aerials Won,13
+Mohamed Salah,Liverpool,CAM_Winger,Goals,29
+Mohamed Salah,Liverpool,CAM_Winger,Assists,18
+Mohamed Salah,Liverpool,CAM_Winger,NPG,20
+Mohamed Salah,Liverpool,CAM_Winger,XG,25.2
+Mohamed Salah,Liverpool,CAM_Winger,XA,14.2
+Mohamed Salah,Liverpool,CAM_Winger,Progressive passes,144
+Mohamed Salah,Liverpool,CAM_Winger,Progressive carries,155
+Mohamed Salah,Liverpool,CAM_Winger,Passes completed,892
+Mohamed Salah,Liverpool,CAM_Winger,Passes attempted,1263
+Mohamed Salah,Liverpool,CAM_Winger,Key passes,88
+Mohamed Salah,Liverpool,CAM_Winger,Through balls,19
+Mohamed Salah,Liverpool,CAM_Winger,Switches,3
+Mohamed Salah,Liverpool,CAM_Winger,Crosses,79
+Mohamed Salah,Liverpool,CAM_Winger,Corners,0
+Mohamed Salah,Liverpool,CAM_Winger,Shot creating Actions,169
+Mohamed Salah,Liverpool,CAM_Winger,SCA Take Ons,22
+Mohamed Salah,Liverpool,CAM_Winger,GCA Shots,2
+Mohamed Salah,Liverpool,CAM_Winger,Goal Creating Actions,27
+Mohamed Salah,Liverpool,CAM_Winger,Tackles,21
+Mohamed Salah,Liverpool,CAM_Winger,Dribblers tackles,NA
+Mohamed Salah,Liverpool,CAM_Winger,Shots blocked,0
+Mohamed Salah,Liverpool,CAM_Winger,Blocks,12
+Mohamed Salah,Liverpool,CAM_Winger,Interceptions,9
+Mohamed Salah,Liverpool,CAM_Winger,Passes Recieved,1407
+Mohamed Salah,Liverpool,CAM_Winger,Offsides,18
+Mohamed Salah,Liverpool,CAM_Winger,Ball recoveries,101
+Mohamed Salah,Liverpool,CAM_Winger,Errors,0
+Mohamed Salah,Liverpool,CAM_Winger,Touches,1695
+Mohamed Salah,Liverpool,CAM_Winger,Miscontrols,116
+Mohamed Salah,Liverpool,CAM_Winger,Dispossessed,67
+Mohamed Salah,Liverpool,CAM_Winger,Yellow Cards,1
+Mohamed Salah,Liverpool,CAM_Winger,Red Cards,0
+Mohamed Salah,Liverpool,CAM_Winger,Fouls committed,25
+Mohamed Salah,Liverpool,CAM_Winger,Aerials Won,9
+Mohammed Kudus,Tottenham Hotspur,CAM_Winger,Goals,5
+Mohammed Kudus,Tottenham Hotspur,CAM_Winger,Assists,3
+Mohammed Kudus,Tottenham Hotspur,CAM_Winger,NPG,5
+Mohammed Kudus,Tottenham Hotspur,CAM_Winger,XG,6.9
+Mohammed Kudus,Tottenham Hotspur,CAM_Winger,XA,3.1
+Mohammed Kudus,Tottenham Hotspur,CAM_Winger,Progressive passes,79
+Mohammed Kudus,Tottenham Hotspur,CAM_Winger,Progressive carries,98
+Mohammed Kudus,Tottenham Hotspur,CAM_Winger,Passes completed,715
+Mohammed Kudus,Tottenham Hotspur,CAM_Winger,Passes attempted,855
+Mohammed Kudus,Tottenham Hotspur,CAM_Winger,Key passes,31
+Mohammed Kudus,Tottenham Hotspur,CAM_Winger,Through balls,2
+Mohammed Kudus,Tottenham Hotspur,CAM_Winger,Switches,13
+Mohammed Kudus,Tottenham Hotspur,CAM_Winger,Crosses,81
+Mohammed Kudus,Tottenham Hotspur,CAM_Winger,Corners,1
+Mohammed Kudus,Tottenham Hotspur,CAM_Winger,Shot creating Actions,107
+Mohammed Kudus,Tottenham Hotspur,CAM_Winger,SCA Take Ons,16
+Mohammed Kudus,Tottenham Hotspur,CAM_Winger,GCA Shots,3
+Mohammed Kudus,Tottenham Hotspur,CAM_Winger,Goal Creating Actions,10
+Mohammed Kudus,Tottenham Hotspur,CAM_Winger,Tackles,38
+Mohammed Kudus,Tottenham Hotspur,CAM_Winger,Dribblers tackles,NA
+Mohammed Kudus,Tottenham Hotspur,CAM_Winger,Shots blocked,1
+Mohammed Kudus,Tottenham Hotspur,CAM_Winger,Blocks,24
+Mohammed Kudus,Tottenham Hotspur,CAM_Winger,Interceptions,4
+Mohammed Kudus,Tottenham Hotspur,CAM_Winger,Passes Recieved,989
+Mohammed Kudus,Tottenham Hotspur,CAM_Winger,Offsides,18
+Mohammed Kudus,Tottenham Hotspur,CAM_Winger,Ball recoveries,138
+Mohammed Kudus,Tottenham Hotspur,CAM_Winger,Errors,2
+Mohammed Kudus,Tottenham Hotspur,CAM_Winger,Touches,1274
+Mohammed Kudus,Tottenham Hotspur,CAM_Winger,Miscontrols,77
+Mohammed Kudus,Tottenham Hotspur,CAM_Winger,Dispossessed,93
+Mohammed Kudus,Tottenham Hotspur,CAM_Winger,Yellow Cards,2
+Mohammed Kudus,Tottenham Hotspur,CAM_Winger,Red Cards,1
+Mohammed Kudus,Tottenham Hotspur,CAM_Winger,Fouls committed,39
+Mohammed Kudus,Tottenham Hotspur,CAM_Winger,Aerials Won,11
+Nicolas Pépé,Villarreal,CAM_Winger,Goals,3
+Nicolas Pépé,Villarreal,CAM_Winger,Assists,6
+Nicolas Pépé,Villarreal,CAM_Winger,NPG,3
+Nicolas Pépé,Villarreal,CAM_Winger,XG,3.8
+Nicolas Pépé,Villarreal,CAM_Winger,XA,4.8
+Nicolas Pépé,Villarreal,CAM_Winger,Progressive passes,60
+Nicolas Pépé,Villarreal,CAM_Winger,Progressive carries,76
+Nicolas Pépé,Villarreal,CAM_Winger,Passes completed,499
+Nicolas Pépé,Villarreal,CAM_Winger,Passes attempted,631
+Nicolas Pépé,Villarreal,CAM_Winger,Key passes,33
+Nicolas Pépé,Villarreal,CAM_Winger,Through balls,5
+Nicolas Pépé,Villarreal,CAM_Winger,Switches,2
+Nicolas Pépé,Villarreal,CAM_Winger,Crosses,44
+Nicolas Pépé,Villarreal,CAM_Winger,Corners,20
+Nicolas Pépé,Villarreal,CAM_Winger,Shot creating Actions,65
+Nicolas Pépé,Villarreal,CAM_Winger,SCA Take Ons,5
+Nicolas Pépé,Villarreal,CAM_Winger,GCA Shots,0
+Nicolas Pépé,Villarreal,CAM_Winger,Goal Creating Actions,7
+Nicolas Pépé,Villarreal,CAM_Winger,Tackles,22
+Nicolas Pépé,Villarreal,CAM_Winger,Dribblers tackles,NA
+Nicolas Pépé,Villarreal,CAM_Winger,Shots blocked,1
+Nicolas Pépé,Villarreal,CAM_Winger,Blocks,12
+Nicolas Pépé,Villarreal,CAM_Winger,Interceptions,5
+Nicolas Pépé,Villarreal,CAM_Winger,Passes Recieved,622
+Nicolas Pépé,Villarreal,CAM_Winger,Offsides,8
+Nicolas Pépé,Villarreal,CAM_Winger,Ball recoveries,53
+Nicolas Pépé,Villarreal,CAM_Winger,Errors,0
+Nicolas Pépé,Villarreal,CAM_Winger,Touches,842
+Nicolas Pépé,Villarreal,CAM_Winger,Miscontrols,52
+Nicolas Pépé,Villarreal,CAM_Winger,Dispossessed,20
+Nicolas Pépé,Villarreal,CAM_Winger,Yellow Cards,3
+Nicolas Pépé,Villarreal,CAM_Winger,Red Cards,0
+Nicolas Pépé,Villarreal,CAM_Winger,Fouls committed,20
+Nicolas Pépé,Villarreal,CAM_Winger,Aerials Won,16
+Pablo Sarabia,Unknown,CAM_Winger,Goals,3
+Pablo Sarabia,Unknown,CAM_Winger,Assists,2
+Pablo Sarabia,Unknown,CAM_Winger,NPG,3
+Pablo Sarabia,Unknown,CAM_Winger,XG,2.9
+Pablo Sarabia,Unknown,CAM_Winger,XA,1.8
+Pablo Sarabia,Unknown,CAM_Winger,Progressive passes,60
+Pablo Sarabia,Unknown,CAM_Winger,Progressive carries,15
+Pablo Sarabia,Unknown,CAM_Winger,Passes completed,308
+Pablo Sarabia,Unknown,CAM_Winger,Passes attempted,445
+Pablo Sarabia,Unknown,CAM_Winger,Key passes,15
+Pablo Sarabia,Unknown,CAM_Winger,Through balls,5
+Pablo Sarabia,Unknown,CAM_Winger,Switches,2
+Pablo Sarabia,Unknown,CAM_Winger,Crosses,47
+Pablo Sarabia,Unknown,CAM_Winger,Corners,24
+Pablo Sarabia,Unknown,CAM_Winger,Shot creating Actions,28
+Pablo Sarabia,Unknown,CAM_Winger,SCA Take Ons,2
+Pablo Sarabia,Unknown,CAM_Winger,GCA Shots,0
+Pablo Sarabia,Unknown,CAM_Winger,Goal Creating Actions,5
+Pablo Sarabia,Unknown,CAM_Winger,Tackles,16
+Pablo Sarabia,Unknown,CAM_Winger,Dribblers tackles,NA
+Pablo Sarabia,Unknown,CAM_Winger,Shots blocked,0
+Pablo Sarabia,Unknown,CAM_Winger,Blocks,10
+Pablo Sarabia,Unknown,CAM_Winger,Interceptions,4
+Pablo Sarabia,Unknown,CAM_Winger,Passes Recieved,387
+Pablo Sarabia,Unknown,CAM_Winger,Offsides,5
+Pablo Sarabia,Unknown,CAM_Winger,Ball recoveries,34
+Pablo Sarabia,Unknown,CAM_Winger,Errors,1
+Pablo Sarabia,Unknown,CAM_Winger,Touches,552
+Pablo Sarabia,Unknown,CAM_Winger,Miscontrols,22
+Pablo Sarabia,Unknown,CAM_Winger,Dispossessed,14
+Pablo Sarabia,Unknown,CAM_Winger,Yellow Cards,3
+Pablo Sarabia,Unknown,CAM_Winger,Red Cards,0
+Pablo Sarabia,Unknown,CAM_Winger,Fouls committed,16
+Pablo Sarabia,Unknown,CAM_Winger,Aerials Won,5
+Pedro Neto,Chelsea,CAM_Winger,Goals,4
+Pedro Neto,Chelsea,CAM_Winger,Assists,6
+Pedro Neto,Chelsea,CAM_Winger,NPG,4
+Pedro Neto,Chelsea,CAM_Winger,XG,3.5
+Pedro Neto,Chelsea,CAM_Winger,XA,6.7
+Pedro Neto,Chelsea,CAM_Winger,Progressive passes,60
+Pedro Neto,Chelsea,CAM_Winger,Progressive carries,126
+Pedro Neto,Chelsea,CAM_Winger,Passes completed,702
+Pedro Neto,Chelsea,CAM_Winger,Passes attempted,895
+Pedro Neto,Chelsea,CAM_Winger,Key passes,46
+Pedro Neto,Chelsea,CAM_Winger,Through balls,0
+Pedro Neto,Chelsea,CAM_Winger,Switches,5
+Pedro Neto,Chelsea,CAM_Winger,Crosses,149
+Pedro Neto,Chelsea,CAM_Winger,Corners,56
+Pedro Neto,Chelsea,CAM_Winger,Shot creating Actions,90
+Pedro Neto,Chelsea,CAM_Winger,SCA Take Ons,6
+Pedro Neto,Chelsea,CAM_Winger,GCA Shots,1
+Pedro Neto,Chelsea,CAM_Winger,Goal Creating Actions,9
+Pedro Neto,Chelsea,CAM_Winger,Tackles,23
+Pedro Neto,Chelsea,CAM_Winger,Dribblers tackles,NA
+Pedro Neto,Chelsea,CAM_Winger,Shots blocked,2
+Pedro Neto,Chelsea,CAM_Winger,Blocks,14
+Pedro Neto,Chelsea,CAM_Winger,Interceptions,9
+Pedro Neto,Chelsea,CAM_Winger,Passes Recieved,838
+Pedro Neto,Chelsea,CAM_Winger,Offsides,3
+Pedro Neto,Chelsea,CAM_Winger,Ball recoveries,81
+Pedro Neto,Chelsea,CAM_Winger,Errors,0
+Pedro Neto,Chelsea,CAM_Winger,Touches,1153
+Pedro Neto,Chelsea,CAM_Winger,Miscontrols,45
+Pedro Neto,Chelsea,CAM_Winger,Dispossessed,30
+Pedro Neto,Chelsea,CAM_Winger,Yellow Cards,8
+Pedro Neto,Chelsea,CAM_Winger,Red Cards,0
+Pedro Neto,Chelsea,CAM_Winger,Fouls committed,21
+Pedro Neto,Chelsea,CAM_Winger,Aerials Won,11
+Ritsu Doan,Eintracht Frankfurt,CAM_Winger,Goals,10
+Ritsu Doan,Eintracht Frankfurt,CAM_Winger,Assists,7
+Ritsu Doan,Eintracht Frankfurt,CAM_Winger,NPG,10
+Ritsu Doan,Eintracht Frankfurt,CAM_Winger,XG,6.6
+Ritsu Doan,Eintracht Frankfurt,CAM_Winger,XA,3.7
+Ritsu Doan,Eintracht Frankfurt,CAM_Winger,Progressive passes,130
+Ritsu Doan,Eintracht Frankfurt,CAM_Winger,Progressive carries,64
+Ritsu Doan,Eintracht Frankfurt,CAM_Winger,Passes completed,783
+Ritsu Doan,Eintracht Frankfurt,CAM_Winger,Passes attempted,1090
+Ritsu Doan,Eintracht Frankfurt,CAM_Winger,Key passes,27
+Ritsu Doan,Eintracht Frankfurt,CAM_Winger,Through balls,12
+Ritsu Doan,Eintracht Frankfurt,CAM_Winger,Switches,5
+Ritsu Doan,Eintracht Frankfurt,CAM_Winger,Crosses,80
+Ritsu Doan,Eintracht Frankfurt,CAM_Winger,Corners,9
+Ritsu Doan,Eintracht Frankfurt,CAM_Winger,Shot creating Actions,111
+Ritsu Doan,Eintracht Frankfurt,CAM_Winger,SCA Take Ons,14
+Ritsu Doan,Eintracht Frankfurt,CAM_Winger,GCA Shots,1
+Ritsu Doan,Eintracht Frankfurt,CAM_Winger,Goal Creating Actions,16
+Ritsu Doan,Eintracht Frankfurt,CAM_Winger,Tackles,66
+Ritsu Doan,Eintracht Frankfurt,CAM_Winger,Dribblers tackles,NA
+Ritsu Doan,Eintracht Frankfurt,CAM_Winger,Shots blocked,2
+Ritsu Doan,Eintracht Frankfurt,CAM_Winger,Blocks,57
+Ritsu Doan,Eintracht Frankfurt,CAM_Winger,Interceptions,14
+Ritsu Doan,Eintracht Frankfurt,CAM_Winger,Passes Recieved,1031
+Ritsu Doan,Eintracht Frankfurt,CAM_Winger,Offsides,8
+Ritsu Doan,Eintracht Frankfurt,CAM_Winger,Ball recoveries,133
+Ritsu Doan,Eintracht Frankfurt,CAM_Winger,Errors,1
+Ritsu Doan,Eintracht Frankfurt,CAM_Winger,Touches,1537
+Ritsu Doan,Eintracht Frankfurt,CAM_Winger,Miscontrols,58
+Ritsu Doan,Eintracht Frankfurt,CAM_Winger,Dispossessed,62
+Ritsu Doan,Eintracht Frankfurt,CAM_Winger,Yellow Cards,2
+Ritsu Doan,Eintracht Frankfurt,CAM_Winger,Red Cards,0
+Ritsu Doan,Eintracht Frankfurt,CAM_Winger,Fouls committed,27
+Ritsu Doan,Eintracht Frankfurt,CAM_Winger,Aerials Won,16
+Riyad Mahrez,Al-Ahli,CAM_Winger,Goals,8
+Riyad Mahrez,Al-Ahli,CAM_Winger,Assists,10
+Riyad Mahrez,Al-Ahli,CAM_Winger,NPG,7
+Riyad Mahrez,Al-Ahli,CAM_Winger,XG,NA
+Riyad Mahrez,Al-Ahli,CAM_Winger,XA,NA
+Riyad Mahrez,Al-Ahli,CAM_Winger,Progressive passes,NA
+Riyad Mahrez,Al-Ahli,CAM_Winger,Progressive carries,NA
+Riyad Mahrez,Al-Ahli,CAM_Winger,Passes completed,NA
+Riyad Mahrez,Al-Ahli,CAM_Winger,Passes attempted,NA
+Riyad Mahrez,Al-Ahli,CAM_Winger,Key passes,NA
+Riyad Mahrez,Al-Ahli,CAM_Winger,Through balls,NA
+Riyad Mahrez,Al-Ahli,CAM_Winger,Switches,NA
+Riyad Mahrez,Al-Ahli,CAM_Winger,Crosses,186
+Riyad Mahrez,Al-Ahli,CAM_Winger,Corners,NA
+Riyad Mahrez,Al-Ahli,CAM_Winger,Shot creating Actions,NA
+Riyad Mahrez,Al-Ahli,CAM_Winger,SCA Take Ons,NA
+Riyad Mahrez,Al-Ahli,CAM_Winger,GCA Shots,NA
+Riyad Mahrez,Al-Ahli,CAM_Winger,Goal Creating Actions,NA
+Riyad Mahrez,Al-Ahli,CAM_Winger,Tackles,21
+Riyad Mahrez,Al-Ahli,CAM_Winger,Dribblers tackles,NA
+Riyad Mahrez,Al-Ahli,CAM_Winger,Shots blocked,NA
+Riyad Mahrez,Al-Ahli,CAM_Winger,Blocks,NA
+Riyad Mahrez,Al-Ahli,CAM_Winger,Interceptions,11
+Riyad Mahrez,Al-Ahli,CAM_Winger,Passes Recieved,NA
+Riyad Mahrez,Al-Ahli,CAM_Winger,Offsides,25
+Riyad Mahrez,Al-Ahli,CAM_Winger,Ball recoveries,NA
+Riyad Mahrez,Al-Ahli,CAM_Winger,Errors,NA
+Riyad Mahrez,Al-Ahli,CAM_Winger,Touches,NA
+Riyad Mahrez,Al-Ahli,CAM_Winger,Miscontrols,NA
+Riyad Mahrez,Al-Ahli,CAM_Winger,Dispossessed,NA
+Riyad Mahrez,Al-Ahli,CAM_Winger,Yellow Cards,4
+Riyad Mahrez,Al-Ahli,CAM_Winger,Red Cards,0
+Riyad Mahrez,Al-Ahli,CAM_Winger,Fouls committed,28
+Riyad Mahrez,Al-Ahli,CAM_Winger,Aerials Won,NA
+Samuel Chukwueze,Fulham,CAM_Winger,Goals,3
+Samuel Chukwueze,Fulham,CAM_Winger,Assists,2
+Samuel Chukwueze,Fulham,CAM_Winger,NPG,3
+Samuel Chukwueze,Fulham,CAM_Winger,XG,2.7
+Samuel Chukwueze,Fulham,CAM_Winger,XA,3.0
+Samuel Chukwueze,Fulham,CAM_Winger,Progressive passes,36
+Samuel Chukwueze,Fulham,CAM_Winger,Progressive carries,48
+Samuel Chukwueze,Fulham,CAM_Winger,Passes completed,320
+Samuel Chukwueze,Fulham,CAM_Winger,Passes attempted,422
+Samuel Chukwueze,Fulham,CAM_Winger,Key passes,27
+Samuel Chukwueze,Fulham,CAM_Winger,Through balls,4
+Samuel Chukwueze,Fulham,CAM_Winger,Switches,6
+Samuel Chukwueze,Fulham,CAM_Winger,Crosses,50
+Samuel Chukwueze,Fulham,CAM_Winger,Corners,17
+Samuel Chukwueze,Fulham,CAM_Winger,Shot creating Actions,49
+Samuel Chukwueze,Fulham,CAM_Winger,SCA Take Ons,6
+Samuel Chukwueze,Fulham,CAM_Winger,GCA Shots,0
+Samuel Chukwueze,Fulham,CAM_Winger,Goal Creating Actions,2
+Samuel Chukwueze,Fulham,CAM_Winger,Tackles,17
+Samuel Chukwueze,Fulham,CAM_Winger,Dribblers tackles,NA
+Samuel Chukwueze,Fulham,CAM_Winger,Shots blocked,0
+Samuel Chukwueze,Fulham,CAM_Winger,Blocks,3
+Samuel Chukwueze,Fulham,CAM_Winger,Interceptions,2
+Samuel Chukwueze,Fulham,CAM_Winger,Passes Recieved,406
+Samuel Chukwueze,Fulham,CAM_Winger,Offsides,3
+Samuel Chukwueze,Fulham,CAM_Winger,Ball recoveries,38
+Samuel Chukwueze,Fulham,CAM_Winger,Errors,0
+Samuel Chukwueze,Fulham,CAM_Winger,Touches,556
+Samuel Chukwueze,Fulham,CAM_Winger,Miscontrols,23
+Samuel Chukwueze,Fulham,CAM_Winger,Dispossessed,11
+Samuel Chukwueze,Fulham,CAM_Winger,Yellow Cards,0
+Samuel Chukwueze,Fulham,CAM_Winger,Red Cards,0
+Samuel Chukwueze,Fulham,CAM_Winger,Fouls committed,3
+Samuel Chukwueze,Fulham,CAM_Winger,Aerials Won,6
+Thomas Lemar,Girona,CAM_Winger,Goals,0
+Thomas Lemar,Girona,CAM_Winger,Assists,0
+Thomas Lemar,Girona,CAM_Winger,NPG,0
+Thomas Lemar,Girona,CAM_Winger,XG,0.3
+Thomas Lemar,Girona,CAM_Winger,XA,0.2
+Thomas Lemar,Girona,CAM_Winger,Progressive passes,8
+Thomas Lemar,Girona,CAM_Winger,Progressive carries,1
+Thomas Lemar,Girona,CAM_Winger,Passes completed,57
+Thomas Lemar,Girona,CAM_Winger,Passes attempted,68
+Thomas Lemar,Girona,CAM_Winger,Key passes,2
+Thomas Lemar,Girona,CAM_Winger,Through balls,0
+Thomas Lemar,Girona,CAM_Winger,Switches,0
+Thomas Lemar,Girona,CAM_Winger,Crosses,3
+Thomas Lemar,Girona,CAM_Winger,Corners,2
+Thomas Lemar,Girona,CAM_Winger,Shot creating Actions,4
+Thomas Lemar,Girona,CAM_Winger,SCA Take Ons,0
+Thomas Lemar,Girona,CAM_Winger,GCA Shots,0
+Thomas Lemar,Girona,CAM_Winger,Goal Creating Actions,0
+Thomas Lemar,Girona,CAM_Winger,Tackles,2
+Thomas Lemar,Girona,CAM_Winger,Dribblers tackles,NA
+Thomas Lemar,Girona,CAM_Winger,Shots blocked,0
+Thomas Lemar,Girona,CAM_Winger,Blocks,0
+Thomas Lemar,Girona,CAM_Winger,Interceptions,0
+Thomas Lemar,Girona,CAM_Winger,Passes Recieved,62
+Thomas Lemar,Girona,CAM_Winger,Offsides,0
+Thomas Lemar,Girona,CAM_Winger,Ball recoveries,3
+Thomas Lemar,Girona,CAM_Winger,Errors,0
+Thomas Lemar,Girona,CAM_Winger,Touches,78
+Thomas Lemar,Girona,CAM_Winger,Miscontrols,1
+Thomas Lemar,Girona,CAM_Winger,Dispossessed,1
+Thomas Lemar,Girona,CAM_Winger,Yellow Cards,0
+Thomas Lemar,Girona,CAM_Winger,Red Cards,0
+Thomas Lemar,Girona,CAM_Winger,Fouls committed,1
+Thomas Lemar,Girona,CAM_Winger,Aerials Won,0
+Timothy Weah,Marseille,CAM_Winger,Goals,5
+Timothy Weah,Marseille,CAM_Winger,Assists,2
+Timothy Weah,Marseille,CAM_Winger,NPG,5
+Timothy Weah,Marseille,CAM_Winger,XG,3.4
+Timothy Weah,Marseille,CAM_Winger,XA,1.6
+Timothy Weah,Marseille,CAM_Winger,Progressive passes,56
+Timothy Weah,Marseille,CAM_Winger,Progressive carries,45
+Timothy Weah,Marseille,CAM_Winger,Passes completed,659
+Timothy Weah,Marseille,CAM_Winger,Passes attempted,787
+Timothy Weah,Marseille,CAM_Winger,Key passes,19
+Timothy Weah,Marseille,CAM_Winger,Through balls,2
+Timothy Weah,Marseille,CAM_Winger,Switches,2
+Timothy Weah,Marseille,CAM_Winger,Crosses,44
+Timothy Weah,Marseille,CAM_Winger,Corners,2
+Timothy Weah,Marseille,CAM_Winger,Shot creating Actions,36
+Timothy Weah,Marseille,CAM_Winger,SCA Take Ons,1
+Timothy Weah,Marseille,CAM_Winger,GCA Shots,1
+Timothy Weah,Marseille,CAM_Winger,Goal Creating Actions,3
+Timothy Weah,Marseille,CAM_Winger,Tackles,36
+Timothy Weah,Marseille,CAM_Winger,Dribblers tackles,NA
+Timothy Weah,Marseille,CAM_Winger,Shots blocked,4
+Timothy Weah,Marseille,CAM_Winger,Blocks,25
+Timothy Weah,Marseille,CAM_Winger,Interceptions,14
+Timothy Weah,Marseille,CAM_Winger,Passes Recieved,652
+Timothy Weah,Marseille,CAM_Winger,Offsides,3
+Timothy Weah,Marseille,CAM_Winger,Ball recoveries,60
+Timothy Weah,Marseille,CAM_Winger,Errors,2
+Timothy Weah,Marseille,CAM_Winger,Touches,977
+Timothy Weah,Marseille,CAM_Winger,Miscontrols,26
+Timothy Weah,Marseille,CAM_Winger,Dispossessed,15
+Timothy Weah,Marseille,CAM_Winger,Yellow Cards,4
+Timothy Weah,Marseille,CAM_Winger,Red Cards,0
+Timothy Weah,Marseille,CAM_Winger,Fouls committed,20
+Timothy Weah,Marseille,CAM_Winger,Aerials Won,19
